@@ -1,0 +1,2 @@
+
+Setup instructions for this course's lab environment have changed. Please visit https://bit.ly/PSAutolab for updated instructions.
