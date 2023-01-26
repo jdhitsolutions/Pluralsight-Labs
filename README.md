@@ -57,6 +57,6 @@ The first time you setup a lab, the module will download ISO files from Microsof
 
 ## More Information
 
-For more details about the PSAutolab module. go to [the module's README page](https://github.com/pluralsight/PS-AutoLab-Env/blob/master/README.md). If necessary, follow the link to detailed documentation instructions. Beginning in version 4.17.0 of the module, you can also run `Open-PSAutolabHelp` to view a PDF version of all documentation.
+For more details about the PSAutolab module, go to [the module's README page](https://github.com/pluralsight/PS-AutoLab-Env/blob/master/README.md). If necessary, follow the link to detailed documentation instructions. Beginning in version 4.17.0 of the module, you can also run `Open-PSAutolabHelp` to view a PDF version of all documentation.
 
 If you encounter a problem getting the module installed or a lab setup, please post in the [Issues](https://github.com/pluralsight/PS-AutoLab-Env/issues) of the GitHub repository.
